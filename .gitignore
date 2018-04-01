@@ -8,3 +8,6 @@
 
 # Work directories
 temp/*
+
+# PrePros file config
+prepros*.config
