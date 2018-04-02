@@ -3,6 +3,8 @@ Origin idea forked from [Denys Vitali](https://github.com/denysvitali/nginx-erro
 
 Make your nginx error pages look great
 
+Check [DEMO here](https://error.reatlat.net/)
+
 ## Installation
 ```bash
 mkdir -p /srv/http/default/public_html
