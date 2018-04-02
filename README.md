@@ -3,7 +3,7 @@ Origin idea forked from [Denys Vitali](https://github.com/denysvitali/nginx-erro
 
 Make your nginx error pages look great
 
-Check [DEMO here](https://error.reatlat.net/)
+Check [DEMO here](https://error-pages.reatlat.net/)
 
 ## Installation
 ```bash
